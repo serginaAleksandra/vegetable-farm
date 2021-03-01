@@ -1,0 +1,10 @@
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
